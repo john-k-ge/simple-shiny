@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "library(shiny)\nport <- Sys.getenv('PORT')\n#port <- 9001\nshiny::runApp( appDir = getwd(), host = '0.0.0.0', port = as.numeric(port) )",
+    "created" : 1463594754651.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "320998402",
+    "id" : "1F683AA2",
+    "lastKnownWriteTime" : 1463602557,
+    "last_content_update" : 1463602557717,
+    "path" : "~/Desktop/simple_shiny/run.R",
+    "project_path" : "run.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

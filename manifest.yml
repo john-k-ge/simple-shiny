@@ -1,0 +1,6 @@
+---
+  applications:
+  - name: test_ag
+    memory: 512M
+    instances: 1
+    command: Rscript run.r

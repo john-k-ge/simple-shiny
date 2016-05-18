@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "install.packages(\"shiny\", dependencies = TRUE)\ninstall.packages(\"Cairo\", dependencies = TRUE)",
+    "created" : 1463594793979.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1354384896",
+    "id" : "8AE31228",
+    "lastKnownWriteTime" : 1463594807,
+    "last_content_update" : 1463594807538,
+    "path" : "~/Desktop/simple_shiny/init.R",
+    "project_path" : "init.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

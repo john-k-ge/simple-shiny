@@ -1,0 +1,21 @@
+{
+    "collab_server" : "",
+    "contents" : "---\n  applications:\n  - name: test_ag\n    memory: 512M\n    instances: 1\n    command: Rscript run.r",
+    "created" : 1463602287594.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1753291368",
+    "id" : "F2A86CD7",
+    "lastKnownWriteTime" : 1463602521,
+    "last_content_update" : 1463602521728,
+    "path" : "~/Desktop/simple_shiny/manifest.yml",
+    "project_path" : "manifest.yml",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}
